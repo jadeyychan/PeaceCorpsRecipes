@@ -3,7 +3,7 @@
 
 ---
 
-Last Updated: 
+Last Updated: Spring 2016
 Contributers: Jade Chan, Elif Kinli, Nicholas Yan, Andre Newland, Max Tung, Suruchi Devanahalli 
 
 ---
